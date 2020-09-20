@@ -28,6 +28,7 @@ gem 'rack-cors'
 gem 'devise'
 gem 'simple_token_authentication', '~> 1.0'
 gem 'koala', '~> 3.0.0'
+gem 'faker'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
